@@ -1,0 +1,1 @@
+# ToDo application written in Go. Used Gin as a web server. Complied with the rules that Uncle Bob spoke about. 
